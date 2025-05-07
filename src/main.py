@@ -9,3 +9,4 @@ from secrets import choice
 # ============================ IMPORTS ============================ #
 
 CHARS = (ascii_lowercase + ascii_uppercase + digits + punctuation)
+password = ""
